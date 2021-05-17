@@ -1,0 +1,3 @@
+(a) => {
+  document.getElementById('a')   
+}
